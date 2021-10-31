@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#navmenu{
+    background-color: #f2f2f2;
+}
+
+
+.content{
+    height: 100%;
+}
+
+.beef-content{
+    background-color: #ff99cc;
+}
+
+.sushi-content{
+    background-color: #206020;
+    color: white;
+}
